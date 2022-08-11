@@ -48,7 +48,7 @@ An implication of this research project would be a faster and more accessible me
 
 ## Misc
 
-A slide presentation of the work can be found [here](https://docs.google.com/presentation/d/1d9mhd0fuubnEqmDddL0iYs00secpbMdi/edit?usp=sharing&ouid=113795033473157238384&rtpof=true&sd=true). Thank you for reading, and please credit my work if you choose to build on it!
+A slide presentation of the work can be found [here](https://docs.google.com/presentation/d/1d9mhd0fuubnEqmDddL0iYs00secpbMdi/edit?usp=sharing&ouid=113795033473157238384&rtpof=true&sd=true). A recording of my presenation [here](https://drive.google.com/file/d/1JLWgHzbO6wcFKRr2nPw433_SMh3MmS6d/view?usp=sharing). Thank you for reading, and please credit my work if you choose to build on it!
 
 ## Citations
 
