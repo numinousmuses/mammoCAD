@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/103385201/184056451-ae9da128-4ce6-4ea1-90a5-d0046214354a.png)
 
 # mammoCAD
-CNN for tumor detection in mammograms
+CNN for tumor detection in mammograms. Find the project on Deepnote [here](https://deepnote.com/workspace/numinousmuses-811fd170-d3ba-4d8c-a3af-1b8c11c531d5/project/mammoCAD-ff7f75c3-766c-405a-82ff-a46d7a824b28/%2Fmammocad-using-tpu%20(1).ipynb).
 
 ## Project Description
 
